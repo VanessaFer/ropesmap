@@ -1,4 +1,5 @@
 # Interactive Map of Japanese Rope Art Locations in Italy
+[Click to see the interactive map](https://www.andrearopes.com/ropes-around-italia/)
 
 ## Project Overview
 This map was commissioned by a client who wanted to map all the places 
